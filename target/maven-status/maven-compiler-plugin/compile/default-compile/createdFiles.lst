@@ -1,0 +1,13 @@
+com\Project\SpringAngular\Controller\Educacion\educacionRepositorio\eduRepo.class
+com\Project\SpringAngular\SpringAngularApplication.class
+com\Project\SpringAngular\Controller\Proyectos\proyectoExepciones\ProyResourceNotFoundException.class
+com\Project\SpringAngular\Controller\Educacion\Educacion.class
+com\Project\SpringAngular\Controller\Controller.class
+com\Project\SpringAngular\Controller\Proyectos\proyectoRepositorio\ProyectoRepo.class
+com\Project\SpringAngular\Controller\Auth\AuthRepo.class
+com\Project\SpringAngular\Controller\Client.class
+com\Project\SpringAngular\Controller\Educacion\EduExepciones\ResourceNotFoundException.class
+com\Project\SpringAngular\Controller\ProyectosRepo.class
+com\Project\SpringAngular\Controller\Auth\AuthExeptions.class
+com\Project\SpringAngular\Controller\Auth\Auth.class
+com\Project\SpringAngular\Controller\Proyectos\Proyecto.class
